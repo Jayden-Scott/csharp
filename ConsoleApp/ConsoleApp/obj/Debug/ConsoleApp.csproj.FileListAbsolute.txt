@@ -1,0 +1,10 @@
+C:\Users\jayden\Desktop\C# Foundation Library\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\jayden\Desktop\C# Foundation Library\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\jayden\Desktop\C# Foundation Library\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\jayden\Desktop\C# Foundation Library\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\jayden\Desktop\C# Foundation Library\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\jayden\Desktop\C# Foundation Library\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Dev\csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Dev\csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Dev\csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Dev\csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
